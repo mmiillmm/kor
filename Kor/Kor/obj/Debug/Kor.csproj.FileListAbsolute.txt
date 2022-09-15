@@ -1,0 +1,6 @@
+C:\Users\Ny19MakaiK\source\repos\Kor\Kor\bin\Debug\Kor.exe.config
+C:\Users\Ny19MakaiK\source\repos\Kor\Kor\bin\Debug\Kor.exe
+C:\Users\Ny19MakaiK\source\repos\Kor\Kor\bin\Debug\Kor.pdb
+C:\Users\Ny19MakaiK\source\repos\Kor\Kor\obj\Debug\Kor.csprojAssemblyReference.cache
+C:\Users\Ny19MakaiK\source\repos\Kor\Kor\obj\Debug\Kor.exe
+C:\Users\Ny19MakaiK\source\repos\Kor\Kor\obj\Debug\Kor.pdb
